@@ -14,4 +14,6 @@ To run the code, Arduino IDE is required. The MPU6050 library is also needed. "W
 
 References
 
+This code was done by Ross Mitchell and Arya Naidoo
 
+[1]jrowberg, “jrowberg/i2cdevlib,” GitHub, Aug. 29, 2019. https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050
