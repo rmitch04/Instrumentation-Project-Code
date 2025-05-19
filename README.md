@@ -17,4 +17,5 @@ References
 This code was done by Ross Mitchell and Arya Naidoo
 
 [1]jrowberg, “jrowberg/i2cdevlib,” GitHub, Aug. 29, 2019. https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050
+
 [2]Arduino, “Wire,” Arduino.cc, 2024. https://docs.arduino.cc/language-reference/en/functions/communication/wire/
