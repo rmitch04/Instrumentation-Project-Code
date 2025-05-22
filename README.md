@@ -10,7 +10,7 @@ The maximum and minimum angles reached during the movement are recorded and used
 
 Software
 
-To run the code, the Arduino IDE is required. The MPU6050 library is also needed. Arduino Wire library is also used to allow for I2C communication. 
+To run the code, the Arduino IDE is required. The MPU6050 library is also needed [1]. Arduino Wire library is also used to allow for I2C communication[2]. 
 
 References
 
